@@ -1,0 +1,12 @@
+C:\Users\vihan\OneDrive\Desktop\Projects\ClinicBookingSystem\src\ClinicBooking.Domain\bin\Debug\net9.0\ClinicBooking.Domain.deps.json
+C:\Users\vihan\OneDrive\Desktop\Projects\ClinicBookingSystem\src\ClinicBooking.Domain\bin\Debug\net9.0\ClinicBooking.Domain.dll
+C:\Users\vihan\OneDrive\Desktop\Projects\ClinicBookingSystem\src\ClinicBooking.Domain\bin\Debug\net9.0\ClinicBooking.Domain.pdb
+C:\Users\vihan\OneDrive\Desktop\Projects\ClinicBookingSystem\src\ClinicBooking.Domain\obj\Debug\net9.0\ClinicBooking.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vihan\OneDrive\Desktop\Projects\ClinicBookingSystem\src\ClinicBooking.Domain\obj\Debug\net9.0\ClinicBooking.Domain.AssemblyInfoInputs.cache
+C:\Users\vihan\OneDrive\Desktop\Projects\ClinicBookingSystem\src\ClinicBooking.Domain\obj\Debug\net9.0\ClinicBooking.Domain.AssemblyInfo.cs
+C:\Users\vihan\OneDrive\Desktop\Projects\ClinicBookingSystem\src\ClinicBooking.Domain\obj\Debug\net9.0\ClinicBooking.Domain.csproj.CoreCompileInputs.cache
+C:\Users\vihan\OneDrive\Desktop\Projects\ClinicBookingSystem\src\ClinicBooking.Domain\obj\Debug\net9.0\ClinicBooking.Domain.sourcelink.json
+C:\Users\vihan\OneDrive\Desktop\Projects\ClinicBookingSystem\src\ClinicBooking.Domain\obj\Debug\net9.0\ClinicBooking.Domain.dll
+C:\Users\vihan\OneDrive\Desktop\Projects\ClinicBookingSystem\src\ClinicBooking.Domain\obj\Debug\net9.0\refint\ClinicBooking.Domain.dll
+C:\Users\vihan\OneDrive\Desktop\Projects\ClinicBookingSystem\src\ClinicBooking.Domain\obj\Debug\net9.0\ClinicBooking.Domain.pdb
+C:\Users\vihan\OneDrive\Desktop\Projects\ClinicBookingSystem\src\ClinicBooking.Domain\obj\Debug\net9.0\ref\ClinicBooking.Domain.dll

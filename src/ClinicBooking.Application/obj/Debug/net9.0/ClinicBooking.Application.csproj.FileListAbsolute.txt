@@ -1,0 +1,16 @@
+C:\Users\vihan\OneDrive\Desktop\Projects\ClinicBookingSystem\src\ClinicBooking.Application\bin\Debug\net9.0\ClinicBooking.Application.deps.json
+C:\Users\vihan\OneDrive\Desktop\Projects\ClinicBookingSystem\src\ClinicBooking.Application\bin\Debug\net9.0\ClinicBooking.Application.dll
+C:\Users\vihan\OneDrive\Desktop\Projects\ClinicBookingSystem\src\ClinicBooking.Application\bin\Debug\net9.0\ClinicBooking.Application.pdb
+C:\Users\vihan\OneDrive\Desktop\Projects\ClinicBookingSystem\src\ClinicBooking.Application\bin\Debug\net9.0\ClinicBooking.Domain.dll
+C:\Users\vihan\OneDrive\Desktop\Projects\ClinicBookingSystem\src\ClinicBooking.Application\bin\Debug\net9.0\ClinicBooking.Domain.pdb
+C:\Users\vihan\OneDrive\Desktop\Projects\ClinicBookingSystem\src\ClinicBooking.Application\obj\Debug\net9.0\ClinicBooking.Application.csproj.AssemblyReference.cache
+C:\Users\vihan\OneDrive\Desktop\Projects\ClinicBookingSystem\src\ClinicBooking.Application\obj\Debug\net9.0\ClinicBooking.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vihan\OneDrive\Desktop\Projects\ClinicBookingSystem\src\ClinicBooking.Application\obj\Debug\net9.0\ClinicBooking.Application.AssemblyInfoInputs.cache
+C:\Users\vihan\OneDrive\Desktop\Projects\ClinicBookingSystem\src\ClinicBooking.Application\obj\Debug\net9.0\ClinicBooking.Application.AssemblyInfo.cs
+C:\Users\vihan\OneDrive\Desktop\Projects\ClinicBookingSystem\src\ClinicBooking.Application\obj\Debug\net9.0\ClinicBooking.Application.csproj.CoreCompileInputs.cache
+C:\Users\vihan\OneDrive\Desktop\Projects\ClinicBookingSystem\src\ClinicBooking.Application\obj\Debug\net9.0\ClinicBooking.Application.sourcelink.json
+C:\Users\vihan\OneDrive\Desktop\Projects\ClinicBookingSystem\src\ClinicBooking.Application\obj\Debug\net9.0\ClinicBo.3797644F.Up2Date
+C:\Users\vihan\OneDrive\Desktop\Projects\ClinicBookingSystem\src\ClinicBooking.Application\obj\Debug\net9.0\ClinicBooking.Application.dll
+C:\Users\vihan\OneDrive\Desktop\Projects\ClinicBookingSystem\src\ClinicBooking.Application\obj\Debug\net9.0\refint\ClinicBooking.Application.dll
+C:\Users\vihan\OneDrive\Desktop\Projects\ClinicBookingSystem\src\ClinicBooking.Application\obj\Debug\net9.0\ClinicBooking.Application.pdb
+C:\Users\vihan\OneDrive\Desktop\Projects\ClinicBookingSystem\src\ClinicBooking.Application\obj\Debug\net9.0\ref\ClinicBooking.Application.dll

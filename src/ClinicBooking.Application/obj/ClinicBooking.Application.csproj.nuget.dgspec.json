@@ -33,6 +33,9 @@
           }
         },
         "warningProperties": {
+          "noWarn": [
+            "NU1903"
+          ],
           "warnAsError": [
             "NU1605"
           ]
@@ -50,15 +53,15 @@
           "dependencies": {
             "AutoMapper": {
               "target": "Package",
-              "version": "[16.1.1, )"
+              "version": "[14.0.0, )"
             },
             "FluentValidation.DependencyInjectionExtensions": {
               "target": "Package",
-              "version": "[12.1.1, )"
+              "version": "[11.11.0, )"
             },
             "MediatR": {
               "target": "Package",
-              "version": "[14.1.0, )"
+              "version": "[12.4.1, )"
             }
           },
           "imports": [
